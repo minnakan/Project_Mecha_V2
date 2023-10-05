@@ -1,0 +1,24 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl Material__23
+Ns 29.411765
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.522000 0.522000 0.522000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\USER\Downloads\4dqki7d3ridc-Shortrange_missile\uv_head_d.png
+map_Ka C:\\Users\\USER\\Downloads\\4dqki7d3ridc-Shortrange_missile\\uv_head_d.png
+
+newmtl Material__24
+Ns 21.568627
+Ka 0.780367 0.780367 0.780367
+Kd 0.588200 0.772500 0.980400
+Ks 0.954000 0.954000 0.954000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.800000
+illum 2
